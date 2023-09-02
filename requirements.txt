@@ -1,0 +1,3 @@
+pip install linkedin-scraper
+pip install selenium
+export CHROMEDRIVER=~/chromedriver
